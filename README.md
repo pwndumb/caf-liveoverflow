@@ -1,2 +1,3 @@
 # caf-liveoverflow
-scripts to caf challenge of LiveOverFlow YT
+Scripts of "CAF" challenge of LiveOverFlow YT
+
