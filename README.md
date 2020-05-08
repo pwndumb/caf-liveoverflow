@@ -1,3 +1,3 @@
 # caf-liveoverflow
-Scripts of "CAF" challenge of LiveOverFlow YT
+Scripts to solve "CAF" challenge of LiveOverFlow YT
 
